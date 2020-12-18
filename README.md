@@ -2,7 +2,7 @@
 
 Práctica de la asignatura Multimedia, implementación de una aplicación capaz de reproudcir videos interactivos , además de poder añadir funcionalidades interactivas a los videos que hayan sido seleccionados.
 
-# Tecnologías utilizadas
+# Herramientas utilizadas
 
 -JavaFx
 
