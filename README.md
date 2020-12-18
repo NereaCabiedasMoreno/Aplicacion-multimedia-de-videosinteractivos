@@ -21,8 +21,9 @@ A continuación se adjuntan 3 videos donde se pueden observar las diferentes fun
 
 # Ejecución y compatibilidad
 
-Se han creado un .exe para poder ejecutarla en los dispositivos con windows y .dmg para los dispositiovs IOS.
+-Descargar para Windows: https://mega.nz/file/PElR0AiL#XPdTkDSR3akGXkrfl2YCfLHnsuWmQzdQ_5Ii3AI0veY
 
+-Descargar para Mac OS: https://mega.nz/file/HAlRWKbY#mL_YNbDHZ5HGF1PArILZ80naJUyRQc36HnqwSPkGdVo
 
 # Desarrollada por :
 
