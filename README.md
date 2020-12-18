@@ -23,7 +23,7 @@ A continuación se adjuntan 3 videos donde se pueden observar las diferentes fun
 
 -Descargar para Windows: https://mega.nz/file/PElR0AiL#XPdTkDSR3akGXkrfl2YCfLHnsuWmQzdQ_5Ii3AI0veY
 
--Descargar para Mac OS: https://mega.nz/file/HAlRWKbY#mL_YNbDHZ5HGF1PArILZ80naJUyRQc36HnqwSPkGdVo
+-Descargar para Mac OS:https://mega.nz/file/HAlRWKbY#mL_YNbDHZ5HGF1PArILZ80naJUyRQc36HnqwSPkGdVo
 
 # Desarrollada por :
 
