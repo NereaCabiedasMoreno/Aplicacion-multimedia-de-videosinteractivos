@@ -6,7 +6,7 @@ Práctica de la asignatura Multimedia, implementación de una aplicación capaz 
 
 -JavaFx
 
--NetBEans
+-NetBeans
 
 -Scene Builder
 
